@@ -1,0 +1,16 @@
+console.log('1 + 1 é:',  1+1);
+console.log('1 - 1 é:',  1-1);
+console.log('1 * 2 é:',  1*2);
+console.log('1 / 1 é:',  1/1);
+console.log('4 % 2 é:',  4%2);
+console.log('2 ** 4 é:', 2**4);
+
+console.log('\n--- comparacão ---\n');
+console.log('1 > 2', 1 > 2);
+console.log('1 > 2', 1 < 2);
+console.log('2 >= 2', 2 >= 2);
+console.log('3 <= 2', 3 <= 2);
+console.log(' 4 === 3', 4 === 3);
+console.log(' 2 !== 3', 2 !== 3);
+
+
